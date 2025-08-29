@@ -1,6 +1,6 @@
 *🍕Food Ordering & Catering Website
 
-An elegant and responsive food ordering, catering, and party booking website built with HTML + CSS.
+An elegant and responsive food ordering, catering, and party booking website built with HTML + CSS and basic Javascript.
 This project is designed to provide a clean UI, responsive design, and interactive hover effects for a smooth user experience.
 
 *🚀 Features
@@ -21,6 +21,8 @@ HTML5 – Structure of the website
 
 CSS3 – Styling & responsiveness
 
+JS-for smoth scrolling and darkmode toogle
+
 Flexbox / Grid – Layout management
 
 *📂 Project Structure
@@ -29,7 +31,9 @@ Flexbox / Grid – Layout management
 ├── style.css         # CSS styling  
 ├── images/           # Image assets (food, catering, party)  
 ├── screenshots/      # Project screenshots  
-└── README.md         # Documentation  
+└── README.md         # Documentation
+└── script.js         #smooth scrolling and dark mode toggle
+
 
 *📌 Future Improvements
 
