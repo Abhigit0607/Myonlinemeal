@@ -420,11 +420,13 @@ body.dark .btn:hover {
 /* Contact form */
 #contact {
   padding: 50px 20px;
-  background: #f9f9f9;
+  background: black;
+
 }
 
 #contact h1 {
   margin-bottom: 20px;
+  color:white;
 }
 
 .contact-form {
@@ -433,6 +435,7 @@ body.dark .btn:hover {
   display: flex;
   flex-direction: column;
   gap: 15px;
+  
 }
 
 .contact-form input,
